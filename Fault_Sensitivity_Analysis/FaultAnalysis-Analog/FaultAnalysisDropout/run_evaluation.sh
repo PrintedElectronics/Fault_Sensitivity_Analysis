@@ -1,0 +1,13 @@
+sbatch evaluation_01.sh 
+sbatch evaluation_02.sh 
+sbatch evaluation_03.sh 
+sbatch evaluation_04.sh 
+sbatch evaluation_05.sh 
+sbatch evaluation_06.sh 
+sbatch evaluation_07.sh 
+sbatch evaluation_08.sh 
+sbatch evaluation_09.sh 
+sbatch evaluation_10.sh 
+sbatch evaluation_11.sh 
+sbatch evaluation_12.sh 
+sbatch evaluation_13.sh

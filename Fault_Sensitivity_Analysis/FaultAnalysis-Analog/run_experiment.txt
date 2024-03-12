@@ -1,0 +1,7 @@
+Running of the experiment
+
+The code can be simply run by command line through:
+
+$ python3 experiment.py --DATASET 00 --SEED 00 --e_train 0.1 --dropout 0.1 --projectname FaultAnalysis &
+
+where the number of datasets ranges from 00 to 12, SEED refers to random seed which was 00 - 09 in the experimental setup, e_train is the variation in the variation-aware training which was {0.0, 0.05, 0.1} in the experiment, while dropout was choosen from {0.0, 0.05, 0.1} in the experiment as well. The projectname would be the name of the folder that stores generated files during training, it can be modified as wanted.
